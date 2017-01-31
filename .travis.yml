@@ -9,4 +9,4 @@ install:
   - pip install pylint
 
 # command to run tests
-script: pylint server.js
+script: pylint server.py
