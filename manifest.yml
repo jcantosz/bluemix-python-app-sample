@@ -4,5 +4,5 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: test-python
-  host: test-python-jcantosz
+  host: <APP_HOSTNAME>
   disk_quota: 1024M
