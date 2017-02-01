@@ -3,6 +3,6 @@ applications:
   memory: 128M
   instances: 1
   domain: mybluemix.net
-  name: test-python-jcantosz
+  name: test-python
   host: test-python-jcantosz
   disk_quota: 1024M
